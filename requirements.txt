@@ -1,0 +1,11 @@
+flask
+flask-cors
+streamlit
+pandas
+numpy
+transformers
+torch
+plotly
+matplotlib
+seaborn
+requests
